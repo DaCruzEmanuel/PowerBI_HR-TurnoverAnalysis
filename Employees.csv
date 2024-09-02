@@ -1,0 +1,313 @@
+Employee Name,EmpID,Salary,Position,State,Birthdate,Age,Gender,MaritalStatus,CitizenDesc,HireDate,TerminDate,TermReason,EmploymentStatus,Department,ManagerName,RecruitmentSource,PerformanceScore,EngagementSurvey,EmpSatisfaction,SpecialProjectsCount,LastPerformanceReview_Date,DaysLateLast30,Absences
+Wilson K Adinolfi,10026,62506,Production Technician I,GE,7.10.88,35,M ,Single,Switzerland,7.5.16,,N/A-StillEmployed,Active,Production,Michael Albert,LinkedIn,Exceeds,4.6,5,0,17.1.23,0,1
+Karthikeyan Ait Sidi,10084,104437,Sr. DBA,GE,5.5.80,43,M ,Married,Switzerland,30.3.20,16.6.21,career change,Voluntarily Terminated,IT/IS,Simon Roup,Indeed,Fully Meets,4.96,3,6,24.2.20,0,17
+Sarah Akinkuolie,10196,64955,Production Technician II,GE,19.9.93,30,F,Married,Switzerland,7.5.16,24.9.17,hours,Voluntarily Terminated,Production,Kissy Sullivan,LinkedIn,Fully Meets,3.02,3,0,15.5.16,0,3
+Trina Alagbe,10088,64991,Production Technician I,GE,27.9.93,30,F,Married,Switzerland,1.7.13,,N/A-StillEmployed,Active,Production,Elijiah Gray,Indeed,Fully Meets,4.84,5,0,1.3.23,0,15
+Carol Anderson,10069,50825,Production Technician I,GE,9.8.94,29,F,Divorced,Switzerland,7.11.16,9.6.21,return to school,Voluntarily Terminated,Production,Webster Butler,Google Search,Fully Meets,5,4,0,2.1.20,0,2
+Linda Anderson,10002,57568,Production Technician I,GE,22.5.82,41,F,Single,Switzerland,1.9.17,,N/A-StillEmployed,Active,Production,Amy Dunn,LinkedIn,Exceeds,5,5,0,1.7.23,0,15
+Colby Andreola,10194,95660,Software Engineer,BE,24.5.84,39,F,Single,Switzerland,11.10.19,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,LinkedIn,Fully Meets,3.04,3,4,1.2.23,0,19
+Sam Athwal,10062,59365,Production Technician I,GE,18.2.88,35,M ,Widowed,Switzerland,30.9.18,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Employee Referral,Fully Meets,5,4,0,25.2.23,0,19
+Linda Bachiochi,10114,47837,Production Technician I,GE,2.11.75,48,F,Single,Switzerland,7.6.14,,N/A-StillEmployed,Active,Production,Brannon Miller,Diversity Job Fair,Fully Meets,4.46,3,0,25.1.23,0,4
+Alejandro Bacong,10250,50178,IT Support,GE,1.7.93,30,M ,Divorced,Switzerland,1.5.20,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,Indeed,Fully Meets,5,5,6,18.2.23,0,16
+Rachael Baczenski,10252,54670,Production Technician I,GE,1.12.79,44,F,Married,Switzerland,1.10.16,1.12.22,Another position,Voluntarily Terminated,Production,David Stanley,Diversity Job Fair,Fully Meets,4.2,4,0,30.1.20,0,12
+Thomas Barbara,10242,47211,Production Technician I,GE,21.2.79,44,M ,Married,Switzerland,4.2.17,19.9.21,unhappy,Voluntarily Terminated,Production,Kissy Sullivan,Diversity Job Fair,Fully Meets,4.2,3,0,5.6.20,0,15
+Hector Barbossa,10012,92328,Data Analyst,GE,7.4.93,30,M ,Divorced,Switzerland,11.10.19,,N/A-StillEmployed,Active,IT/IS,Simon Roup,Diversity Job Fair,Exceeds,4.28,4,5,25.2.23,0,9
+Francesco A Barone,10265,58709,Production Technician I,GE,20.7.88,35,M ,Single,Switzerland,20.2.17,,N/A-StillEmployed,Active,Production,Kelley Spirea,Google Search,Fully Meets,4.6,4,0,14.2.23,0,7
+Nader Barton,10066,52505,Production Technician I,GE,15.7.82,41,M ,Divorced,Switzerland,24.9.17,4.6.22,Another position,Voluntarily Terminated,Production,Michael Albert,On-line Web application,Fully Meets,5,5,0,3.2.21,0,1
+Norman Bates,10061,57834,Production Technician I,GE,18.10.86,37,M ,Single,Switzerland,21.2.16,8.4.22,attendance,Terminated for Cause,Production,Kelley Spirea,Google Search,Fully Meets,5,4,0,4.5.21,0,20
+Kimberly Beak,10023,70131,Production Technician II,GE,17.4.71,52,F,Married,Switzerland,21.7.21,,N/A-StillEmployed,Active,Production,Kelley Spirea,Employee Referral,Exceeds,4.4,3,0,14.1.23,0,16
+Courtney Beatrice,10055,59026,Production Technician I,GE,27.10.75,48,F,Single,Switzerland,4.4.16,,N/A-StillEmployed,Active,Production,Elijiah Gray,Google Search,Fully Meets,5,5,0,14.1.23,0,12
+Renee Becker,10245,110000,Database Administrator,GE,4.4.91,32,F,Single,Switzerland,7.7.19,9.12.20,performance,Terminated for Cause,IT/IS,Simon Roup,Google Search,Fully Meets,4.5,4,5,15.1.19,0,8
+Scott Becker,10277,53250,Production Technician I,GE,4.6.84,39,M ,Single,Switzerland,7.8.18,,N/A-StillEmployed,Active,Production,Webster Butler,LinkedIn,Fully Meets,4.2,4,0,1.11.23,0,13
+Sean Bernstein,10046,51044,Production Technician I,GE,22.12.75,48,M ,Single,Switzerland,4.2.17,,N/A-StillEmployed,Active,Production,Amy Dunn,Google Search,Fully Meets,5,3,0,14.1.23,0,13
+Lowan M Biden,10226,64919,Production Technician I,GE,27.12.63,60,F,Divorced,Switzerland,19.8.18,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Indeed,Fully Meets,4.2,3,0,1.10.23,0,2
+Helen Billis,10003,62910,Production Technician I,GE,9.1.94,29,F,Married,Switzerland,7.7.19,,N/A-StillEmployed,Active,Production,Brannon Miller,Indeed,Exceeds,5,3,0,27.2.23,0,19
+Dianna Blount,10294,66441,Production Technician II,GE,21.9.95,28,F,Single,Switzerland,4.4.16,,N/A-StillEmployed,Active,Production,Michael Albert,CareerBuilder,Needs Improvement,2,3,0,27.2.23,2,3
+Betsy Bondwell,10267,57815,Production Technician II,GE,16.1.72,51,F,Single,Switzerland,1.10.16,4.4.19,career change,Voluntarily Terminated,Production,Elijiah Gray,Google Search,Fully Meets,4.8,5,0,3.4.18,0,5
+Frank Booth,10199,103613,Enterprise Architect,GE,30.7.69,54,M ,Single,Switzerland,17.2.19,19.2.21,Learned that he is a gangster,Terminated for Cause,IT/IS,Simon Roup,LinkedIn,Fully Meets,3.5,5,7,1.10.20,0,2
+Bonalyn Boutwell,10081,106367,Sr. Accountant,ZH,4.4.92,31,F,Married,Switzerland,16.2.20,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,5,4,3,18.2.23,0,4
+Charles Bozzi,10175,74312,Production Manager,GE,3.10.52,71,M ,Single,Switzerland,30.9.18,8.7.19,retiring,Voluntarily Terminated,Production,Janet King,Indeed,Fully Meets,3.39,3,0,20.2.18,0,14
+Donna Brill,10177,53492,Production Technician I,GE,24.8.95,28,F,Married,Switzerland,4.2.17,15.6.18,Another position,Voluntarily Terminated,Production,David Stanley,Google Search,Fully Meets,3.35,4,0,3.4.17,0,6
+Mia Brown,10238,63000,Accountant I,ZH,24.11.92,31,F,Married,Switzerland,27.10.13,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,4.5,2,6,15.1.23,0,14
+Joseph Buccheri,10184,65288,Production Technician II,GE,28.7.88,35,M ,Single,Switzerland,29.9.19,,N/A-StillEmployed,Active,Production,Webster Butler,Google Search,Fully Meets,3.19,3,0,2.1.23,0,9
+Josephine Bugali,10203,64375,Production Technician I,GE,30.10.74,49,F,Separated,Switzerland,11.11.18,,N/A-StillEmployed,Active,Production,Kissy Sullivan,Diversity Job Fair,Fully Meets,3.5,5,0,21.1.23,0,17
+Jessica Bunbury,10188,74326,Area Sales Manager,VD,6.1.69,54,F,Married,Switzerland,15.8.16,8.2.19,Another position,Voluntarily Terminated,Sales,John Smith,Google Search,Fully Meets,3.14,5,0,2.10.17,1,19
+Joelle Burke,10107,63763,Production Technician II,GE,3.2.85,38,F,Single,Switzerland,3.5.17,,N/A-StillEmployed,Active,Production,Amy Dunn,Employee Referral,Fully Meets,4.51,4,0,21.2.23,0,3
+Benjamin Burkett,10181,62162,Production Technician II,GE,19.8.82,41,M ,Married,Switzerland,4.4.16,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Indeed,Fully Meets,3.25,5,0,14.1.23,0,15
+Max Cady,10150,77692,Software Engineering Manager,BE,22.11.71,52,M ,Single,Switzerland,15.8.16,,N/A-StillEmployed,Active,Software Engineering,Jennifer Zamora,Google Search,Fully Meets,3.84,3,5,21.1.23,0,4
+Calvin Candie,10001,72640,Production Manager,GE,8.9.88,35,M ,Single,Switzerland,28.1.21,,N/A-StillEmployed,Active,Production,Janet King,Indeed,Exceeds,5,3,0,22.2.23,0,14
+Judith Carabbio,10085,93396,Software Engineer,BE,4.5.92,31,F,Single,Switzerland,11.11.18,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,Indeed,Fully Meets,4.96,4,6,30.1.23,0,3
+Michael Carey,10115,52846,Production Technician I,GE,2.2.88,35,M ,Single,Switzerland,31.3.19,,N/A-StillEmployed,Active,Production,Kelley Spirea,LinkedIn,Fully Meets,4.43,3,0,2.1.23,0,14
+Claudia N Carr,10082,100031,Sr. DBA,GE,6.6.91,32,F,Single,Switzerland,30.6.21,,N/A-StillEmployed,Active,IT/IS,Simon Roup,LinkedIn,Fully Meets,5,5,6,18.2.23,0,7
+Michelle Carter,10040,71860,Area Sales Manager,VD,15.5.68,55,F,Single,Switzerland,18.8.19,,N/A-StillEmployed,Active,Sales,John Smith,Indeed,Fully Meets,5,5,0,21.1.23,0,7
+Beatrice Chace,10067,61656,Production Technician I,GE,1.2.61,62,F,Single,Switzerland,29.9.19,,N/A-StillEmployed,Active,Production,Michael Albert,Google Search,Fully Meets,5,4,0,2.12.23,0,11
+Brian Champaigne,10108,110929,BI Director,GE,2.9.77,46,M ,Married,Switzerland,9.6.21,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,Indeed,Fully Meets,4.5,5,7,15.1.23,0,8
+Lin Chan,10210,54237,Production Technician I,GE,2.12.84,39,F,Single,Switzerland,5.12.19,,N/A-StillEmployed,Active,Production,Elijiah Gray,Indeed,Fully Meets,3.3,4,0,19.2.23,0,11
+Donovan E Chang,10154,60380,Production Technician I,GE,24.8.88,35,M ,Single,Switzerland,7.8.18,,N/A-StillEmployed,Active,Production,Webster Butler,LinkedIn,Fully Meets,3.8,5,0,14.1.23,0,4
+Anton Chigurh,10200,66808,Area Sales Manager,VD,6.11.75,48,M ,Single,Switzerland,14.5.17,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Employee Referral,Fully Meets,3,5,0,19.1.23,0,17
+Enola Chivukula,10240,64786,Production Technician I,GE,27.8.88,35,F,Single,Switzerland,27.6.16,15.11.20,relocation out of area,Voluntarily Terminated,Production,Amy Dunn,Indeed,Fully Meets,4.3,4,0,3.10.19,0,3
+Caroline Cierpiszewski,10168,64816,Production Technician I,GE,31.5.93,30,F,Single,Switzerland,10.3.16,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Indeed,Fully Meets,3.58,5,0,30.1.23,0,3
+Rick Clayton,10220,68678,IT Support,GE,9.5.90,33,M ,Single,Switzerland,9.5.17,,N/A-StillEmployed,Active,IT/IS,Eric Dougall,Indeed,Fully Meets,4.7,3,6,27.2.23,0,2
+Jennifer Cloninger,10275,64066,Production Technician II,GE,31.8.86,37,F,Married,Switzerland,16.5.16,1.7.18,unhappy,Voluntarily Terminated,Production,Brannon Miller,Google Search,Fully Meets,4.2,5,0,5.3.16,0,9
+Phil Close,10269,59369,Production Technician II,GE,25.11.83,40,M ,Married,Switzerland,30.8.15,26.9.16,career change,Voluntarily Terminated,Production,David Stanley,Indeed,Fully Meets,4.2,4,0,5.4.15,0,6
+Elijian Clukey,10029,50373,Production Technician I,GE,26.8.85,38,M ,Married,Switzerland,7.6.21,,N/A-StillEmployed,Active,Production,Brannon Miller,Employee Referral,Exceeds,4.1,4,0,28.2.23,0,5
+James Cockel,10261,63108,Production Technician I,GE,9.8.82,41,M ,Single,Switzerland,7.8.18,,N/A-StillEmployed,Active,Production,David Stanley,Employee Referral,Fully Meets,4.4,5,0,14.1.23,0,3
+Spencer Cole,10292,59144,Production Technician I,GE,8.12.84,39,M ,Single,Switzerland,7.11.16,23.9.21,performance,Terminated for Cause,Production,Kissy Sullivan,LinkedIn,Needs Improvement,2,3,0,5.1.20,5,16
+Michael Corleone,10282,68051,Production Manager,GE,17.12.80,43,M ,Divorced,Switzerland,20.7.15,,N/A-StillEmployed,Active,Production,Janet King,CareerBuilder,Needs Improvement,4.13,2,0,14.1.23,3,3
+Vito Corleone,10019,170500,Director of Operations,GE,19.3.88,35,M ,Single,Switzerland,1.5.14,,N/A-StillEmployed,Active,Production,Janet King,Indeed,Exceeds,3.7,5,0,2.4.23,0,15
+Lisa Cornett,10094,63381,Production Technician I,GE,31.3.82,41,F,Married,Switzerland,1.5.20,,N/A-StillEmployed,Active,Production,Kelley Spirea,Indeed,Fully Meets,4.73,5,0,14.2.23,0,6
+Frank Costello,10193,83552,Data Analyst,GE,26.8.91,32,M ,Married,Switzerland,30.3.20,,N/A-StillEmployed,Active,IT/IS,Simon Roup,Indeed,Fully Meets,3.04,3,6,22.1.23,0,2
+Jean Crimmings,10132,56149,Production Technician I,GE,4.10.92,31,F,Single,Switzerland,7.6.21,,N/A-StillEmployed,Active,Production,Michael Albert,LinkedIn,Fully Meets,4.12,5,0,28.1.23,0,15
+Noah Cross,10083,92329,Sr. Network Engineer,GE,9.9.70,53,M ,Single,Switzerland,11.10.19,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,5,3,4,1.2.23,0,5
+Lynn Daneault,10099,65729,Sales Manager,VD,19.4.95,28,F,Single,Switzerland,5.5.19,,N/A-StillEmployed,Active,Sales,Debra Houlihan,Indeed,Fully Meets,4.62,4,0,24.1.23,0,8
+Ann Daniele,10212,85028,Sr. Network Engineer,GE,18.1.61,62,F,Married,Switzerland,11.10.19,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.1,5,8,2.12.23,0,19
+Jene'ya Darson,10056,57583,Production Technician I,GE,11.5.83,40,F,Married,Switzerland,7.2.17,,N/A-StillEmployed,Active,Production,Elijiah Gray,Indeed,Fully Meets,5,3,0,25.2.23,0,1
+Daniel Davis,10143,56294,Production Technician II,GE,14.9.84,39,M ,Single,Switzerland,11.7.16,,N/A-StillEmployed,Active,Production,Kissy Sullivan,LinkedIn,Fully Meets,3.96,4,0,27.2.23,0,6
+Randy Dee,10311,56991,Production Technician I,GE,15.4.93,30,M ,Married,Switzerland,7.9.23,,N/A-StillEmployed,Active,Production,Brannon Miller,Indeed,Fully Meets,4.3,4,3,31.1.23,2,2
+James DeGweck,10070,55722,Production Technician I,GE,31.10.82,41,M ,Married,Switzerland,16.5.16,6.8.21,unhappy,Voluntarily Terminated,Production,Webster Butler,Indeed,Fully Meets,5,4,0,4.2.20,0,14
+Keyla Del Bosque,10155,101199,Software Engineer,BE,7.5.84,39,F,Single,Switzerland,1.9.17,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,CareerBuilder,Fully Meets,3.79,5,5,25.1.23,0,8
+Alex Delarge,10306,61568,Area Sales Manager,VD,11.2.80,43,M ,Single,Switzerland,29.9.19,,N/A-StillEmployed,Active,Sales,John Smith,Indeed,PIP,1.93,3,0,30.1.23,6,5
+Carla Demita,10100,58275,Production Technician II,GE,25.2.56,67,F,Separated,Switzerland,4.4.16,11.4.20,more money,Voluntarily Terminated,Production,Kelley Spirea,Google Search,Fully Meets,4.62,5,0,5.6.19,0,1
+Carl Desimone,10310,53189,Production Technician I,GE,19.4.72,51,M ,Married,Switzerland,7.7.19,,N/A-StillEmployed,Active,Production,Amy Dunn,Indeed,PIP,1.12,2,0,31.1.23,4,9
+Tommy DeVito,10197,96820,BI Developer,GE,9.4.88,35,M ,Single,Switzerland,15.2.22,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.01,5,7,23.1.23,0,15
+Geoff Dickinson,10276,51259,Production Technician I,GE,15.11.87,36,M ,Single,Switzerland,5.12.19,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Indeed,Fully Meets,4.3,4,0,19.2.23,0,1
+Jenna Dietrich,10304,59231,Area Sales Manager,VD,14.5.92,31,F,Single,Switzerland,20.2.17,,N/A-StillEmployed,Active,Sales,John Smith,Website,PIP,2.3,1,0,29.1.23,2,17
+Lily DiNocco,10284,61584,Production Technician I,GE,12.2.83,40,F,Married,Switzerland,1.7.18,,N/A-StillEmployed,Active,Production,Brannon Miller,Indeed,Needs Improvement,3.88,4,0,18.1.23,0,6
+Denisa S Dobrin,10207,46335,Production Technician I,GE,10.7.91,32,F,Single,Switzerland,4.2.17,,N/A-StillEmployed,Active,Production,David Stanley,CareerBuilder,Fully Meets,3.4,5,0,19.2.23,0,15
+Linda Dolan,10133,70621,IT Support,GE,18.7.93,30,F,Married,Switzerland,1.5.20,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.11,4,6,25.2.23,0,16
+Eric Dougall,10028,138888,IT Manager - Support,GE,7.9.75,48,M ,Single,Switzerland,1.5.19,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,Indeed,Exceeds,4.3,5,5,1.4.23,0,4
+Elle Driver,10006,74241,Area Sales Manager,VD,11.8.93,30,F,Single,Switzerland,1.10.16,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Indeed,Exceeds,4.77,5,0,27.1.23,0,14
+Amy Dunn,10105,75188,Production Manager,GE,28.11.78,45,F,Single,Switzerland,18.9.19,,N/A-StillEmployed,Active,Production,Janet King,Google Search,Fully Meets,4.52,4,0,15.1.23,0,4
+Amy Dunne,10211,62514,Production Technician I,GE,23.9.78,45,F,Married,Switzerland,26.4.15,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Google Search,Fully Meets,2.9,3,0,21.1.23,0,6
+Marianne Eaton,10064,60070,Production Technician I,GE,9.5.96,27,F,Married,Switzerland,4.4.16,6.6.22,military,Voluntarily Terminated,Production,Kissy Sullivan,Google Search,Fully Meets,5,3,0,4.9.21,0,7
+Jean Engdahl,10247,48888,Production Technician I,GE,31.5.79,44,M ,Single,Switzerland,11.10.19,,N/A-StillEmployed,Active,Production,Kelley Spirea,LinkedIn,Fully Meets,4.7,5,0,13.2.23,0,8
+Rex England,10235,54285,Production Technician I,GE,25.8.83,40,M ,Married,Switzerland,31.3.19,,N/A-StillEmployed,Active,Production,Kelley Spirea,Employee Referral,Fully Meets,4.2,3,0,1.11.23,0,3
+Angela Erilus,10299,56847,Production Technician II,GE,25.8.94,29,F,Separated,Switzerland,7.7.19,,N/A-StillEmployed,Active,Production,Michael Albert,Indeed,PIP,3,1,0,25.2.23,2,5
+Miguel Estremera,10280,60340,Production Technician I,GE,9.2.88,35,M ,Single,Switzerland,4.2.17,27.9.23,attendance,Terminated for Cause,Production,Michael Albert,Google Search,Needs Improvement,5,4,0,4.12.22,5,16
+April Evensen,10296,59124,Production Technician I,GE,5.6.94,29,F,Single,Switzerland,17.2.19,25.2.23,"no-call, no-show",Terminated for Cause,Production,Elijiah Gray,Google Search,Needs Improvement,2.3,3,0,15.1.21,5,19
+Susan Exantus,10290,99280,Software Engineer,BE,15.5.92,31,F,Married,Switzerland,5.2.16,6.5.18,attendance,Terminated for Cause,Software Engineering,Alex Sweetwater,Indeed,Needs Improvement,2.1,5,4,8.10.16,4,19
+Megan Faller,10263,71776,Production Technician II,GE,22.9.83,40,F,Married,Switzerland,7.7.19,,N/A-StillEmployed,Active,Production,Elijiah Gray,LinkedIn,Fully Meets,4.4,5,0,22.2.23,0,17
+Nicole Fancett,10136,65902,Production Technician II,GE,27.9.92,31,F,Single,Switzerland,17.2.19,,N/A-StillEmployed,Active,Production,Webster Butler,LinkedIn,Fully Meets,4,4,0,1.7.23,0,7
+Susan Ferguson,10189,57748,Production Technician I,GE,14.4.60,63,F,Married,Switzerland,11.7.16,17.5.21,military,Voluntarily Terminated,Production,Webster Butler,Google Search,Fully Meets,3.13,3,0,2.4.20,0,16
+Nilson Fernandes,10308,64057,Production Technician I,GE,18.10.94,29,M ,Married,Switzerland,5.11.20,,N/A-StillEmployed,Active,Production,Amy Dunn,Indeed,PIP,1.56,5,0,1.3.23,6,15
+Boba Fett,10309,53366,Network Engineer,GE,18.6.92,31,M ,Single,Switzerland,30.3.20,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,LinkedIn,PIP,1.2,3,6,2.4.23,3,2
+Libby Fidelia,10049,58530,Production Technician I,GE,16.3.86,37,F,Married,Switzerland,1.9.17,,N/A-StillEmployed,Active,Production,Brannon Miller,Google Search,Fully Meets,5,5,0,29.1.23,0,19
+Michael J Fitzpatrick,10093,72609,Production Technician II,GE,10.1.86,37,M ,Single,Switzerland,16.5.16,24.6.18,hours,Voluntarily Terminated,Production,Amy Dunn,Google Search,Fully Meets,4.76,5,0,4.5.17,0,20
+Tanya Foreman,10163,55965,Production Technician II,GE,11.8.88,35,F,Married,Switzerland,4.4.16,1.9.18,career change,Voluntarily Terminated,Production,Ketsia Liebig,Google Search,Fully Meets,3.66,3,0,1.7.16,0,6
+Alex Forrest,10305,70187,Area Sales Manager,VD,7.7.80,43,M ,Married,Switzerland,29.9.19,19.8.23,Fatal attraction,Terminated for Cause,Sales,Lynn Daneault,Employee Referral,PIP,2,5,0,28.1.23,4,7
+Jason Foss,10015,178000,IT Director,GE,7.5.85,38,M ,Single,Switzerland,15.4.16,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,Indeed,Exceeds,5,5,5,1.7.23,0,15
+Amy Foster-Baker,10080,99351,Sr. Accountant,ZH,16.4.84,39,F,Married,Switzerland,1.5.14,,N/A-StillEmployed,Active,Admin Offices,Board of Directors,Other,Fully Meets,5,3,2,2.8.23,0,3
+Maruk Fraval,10258,67251,Area Sales Manager,VD,28.8.68,55,M ,Single,Switzerland,9.6.16,,N/A-StillEmployed,Active,Sales,Lynn Daneault,CareerBuilder,Fully Meets,4.3,3,0,27.1.23,2,7
+Lisa Galia,10273,65707,IT Support,GE,7.6.73,50,F,Single,Switzerland,5.1.15,,N/A-StillEmployed,Active,IT/IS,Eric Dougall,LinkedIn,Fully Meets,4.7,4,5,2.1.23,0,1
+Raul Garcia,10111,52249,Production Technician I,GE,15.9.90,33,M ,Single,Switzerland,30.3.20,,N/A-StillEmployed,Active,Production,David Stanley,Employee Referral,Fully Meets,4.5,3,0,18.2.23,0,5
+Barbara Gaul,10257,53171,Production Technician I,GE,12.2.88,35,F,Single,Switzerland,16.5.16,,N/A-StillEmployed,Active,Production,Kelley Spirea,LinkedIn,Fully Meets,4.2,4,0,26.2.23,0,12
+Mildred Gentry,10159,51337,Production Technician I,GE,10.1.95,28,F,Married,Switzerland,30.3.20,,N/A-StillEmployed,Active,Production,Michael Albert,LinkedIn,Fully Meets,3.73,3,0,16.1.23,0,19
+Melisa Gerke,10122,51505,Production Technician I,GE,15.5.75,48,F,Divorced,Switzerland,11.7.16,15.11.21,hours,Voluntarily Terminated,Production,Elijiah Gray,Diversity Job Fair,Fully Meets,4.24,4,0,29.4.20,0,2
+Whitney Gill,10142,59370,Area Sales Manager,VD,7.10.76,47,F,Widowed,Switzerland,7.7.19,9.5.20,attendance,Terminated for Cause,Sales,John Smith,CareerBuilder,Fully Meets,3.97,4,0,15.1.18,0,7
+Alex Gilles,10283,54933,Production Technician I,GE,8.9.79,44,M ,Married,Switzerland,4.2.17,25.6.20,military,Voluntarily Terminated,Production,Webster Butler,Diversity Job Fair,Needs Improvement,3.97,4,0,20.1.19,3,15
+Evelyn Girifalco,10018,57815,Production Technician I,GE,5.8.85,38,F,Single,Switzerland,29.9.19,,N/A-StillEmployed,Active,Production,Amy Dunn,Indeed,Exceeds,3.9,4,0,2.7.23,0,3
+Myriam Givens,10255,61555,Area Sales Manager,VD,22.9.94,29,F,Single,Switzerland,16.2.20,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Indeed,Fully Meets,4.5,5,0,25.1.23,0,20
+Taisha Goble,10246,114800,Database Administrator,GE,23.10.76,47,F,Single,Switzerland,16.2.20,15.3.20,"no-call, no-show",Terminated for Cause,IT/IS,Simon Roup,Indeed,Fully Meets,4.6,4,4,20.1.19,0,10
+Amon Goeth,10228,74679,IT Support,GE,24.11.94,29,M ,Married,Switzerland,30.3.20,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,LinkedIn,Fully Meets,4.3,5,7,1.10.23,0,20
+Shenice Gold,10243,53018,Production Technician I,GE,18.6.97,26,F,Single,Switzerland,11.11.18,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Indeed,Fully Meets,4.3,5,0,18.2.23,0,7
+Cayo Gonzalez,10031,59892,Production Technician I,GE,29.9.74,49,M ,Divorced,Switzerland,7.11.16,,N/A-StillEmployed,Active,Production,Brannon Miller,Diversity Job Fair,Exceeds,4.5,4,0,18.2.23,0,1
+Juan Gonzalez,10300,68898,Production Technician II,GE,10.12.69,54,M ,Married,Switzerland,26.4.15,30.5.16,career change,Voluntarily Terminated,Production,Brannon Miller,Diversity Job Fair,PIP,3,3,0,3.6.15,3,10
+Maria Gonzalez,10101,61242,IT Support,GE,16.4.86,37,F,Separated,Switzerland,1.5.20,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.61,4,5,28.1.23,0,11
+Susan Good,10237,66825,Production Technician II,GE,25.5.91,32,F,Married,Switzerland,5.12.19,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,4.6,3,0,2.7.23,0,20
+David Gordon,10051,48285,Production Technician I,GE,21.5.84,39,M ,Married,Switzerland,7.2.17,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,5,3,0,14.1.23,0,2
+Phylicia Gosciminski,10218,66149,Production Technician II,GE,12.8.88,35,F,Separated,Switzerland,30.9.18,,N/A-StillEmployed,Active,Production,Kissy Sullivan,Google Search,Fully Meets,4.4,5,0,21.2.23,0,1
+Roxana Goyal,10256,49256,Production Technician I,GE,10.9.79,44,F,Married,Switzerland,19.8.18,,N/A-StillEmployed,Active,Production,Kissy Sullivan,LinkedIn,Fully Meets,4.1,5,0,15.2.23,0,3
+Elijiah Gray,10098,62957,Production Manager,GE,7.11.86,37,M ,Divorced,Switzerland,6.2.20,,N/A-StillEmployed,Active,Production,Janet King,Employee Referral,Fully Meets,4.63,3,0,1.4.23,0,2
+Paula Gross,10059,63813,Production Technician I,GE,21.5.88,35,F,Divorced,Switzerland,21.2.16,1.11.19,more money,Voluntarily Terminated,Production,Kelley Spirea,CareerBuilder,Fully Meets,5,5,0,6.3.17,0,17
+Hans Gruber,10234,99020,BI Developer,GE,30.6.94,29,M ,Married,Switzerland,20.4.22,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.2,5,5,28.1.23,0,8
+Mike Guilianno,10109,71707,Area Sales Manager,VD,2.9.74,49,M ,Single,Switzerland,3.7.17,31.10.19,relocation out of area,Voluntarily Terminated,Sales,John Smith,LinkedIn,Fully Meets,4.5,5,0,2.1.17,0,20
+Joanne Handschiegl,10125,54828,Production Technician I,GE,23.3.82,41,F,Married,Switzerland,28.11.16,,N/A-StillEmployed,Active,Production,Michael Albert,Google Search,Fully Meets,4.2,4,0,22.2.23,0,13
+Earnest Hankard,10074,64246,Production Technician II,GE,8.10.93,30,M ,Single,Switzerland,11.11.18,,N/A-StillEmployed,Active,Production,Kelley Spirea,LinkedIn,Fully Meets,5,3,0,1.8.23,0,20
+Christie Harrington,10097,52177,Production Technician I,GE,18.8.57,66,F,Single,Switzerland,1.9.17,15.12.20,retiring,Voluntarily Terminated,Production,Webster Butler,CareerBuilder,Fully Meets,4.64,4,0,5.2.19,0,8
+Kara Harrison,10007,62065,Production Technician I,GE,5.2.79,44,F,Married,Switzerland,5.12.19,,N/A-StillEmployed,Active,Production,Amy Dunn,CareerBuilder,Exceeds,4.76,4,0,15.2.23,0,5
+Anthony Heitzman,10129,46998,Production Technician I,GE,1.4.89,34,M ,Single,Switzerland,13.8.17,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Google Search,Fully Meets,4.17,4,0,2.11.23,0,1
+Trina Hendrickson,10075,68099,Production Technician II,GE,27.8.77,46,F,Single,Switzerland,1.10.16,18.6.18,hours,Voluntarily Terminated,Production,Kelley Spirea,CareerBuilder,Fully Meets,5,3,0,30.1.17,0,15
+Alfred Hitchcock,10167,70545,Area Sales Manager,VD,14.9.93,30,M ,Married,Switzerland,18.8.19,,N/A-StillEmployed,Active,Sales,John Smith,Indeed,Fully Meets,3.6,5,0,30.1.23,0,9
+Adrienne J Homberger,10195,63478,Production Technician II,GE,16.2.89,34,F,Married,Switzerland,15.8.16,4.7.17,relocation out of area,Voluntarily Terminated,Production,Michael Albert,Indeed,Fully Meets,3.03,5,0,3.5.16,0,16
+Jayne Horton,10112,97999,Database Administrator,GE,21.2.89,34,F,Single,Switzerland,30.3.20,,N/A-StillEmployed,Active,IT/IS,Simon Roup,Indeed,Fully Meets,4.48,5,6,1.3.23,0,4
+Debra Houlihan,10272,180000,Director of Sales,VD,17.3.71,52,F,Married,Switzerland,5.5.19,,N/A-StillEmployed,Active,Sales,Janet King,LinkedIn,Fully Meets,4.5,4,0,21.1.23,0,19
+Estelle Howard,10182,49920,Administrative Assistant,ZH,16.9.90,33,F,Married,Switzerland,16.2.20,15.4.20,"no-call, no-show",Terminated for Cause,Admin Offices,Brandon R. LeBlanc,Indeed,Fully Meets,3.24,3,4,15.4.19,0,6
+Jane Hudson,10248,55425,Production Technician I,GE,6.10.91,32,F,Single,Switzerland,20.2.17,,N/A-StillEmployed,Active,Production,Ketsia Liebig,LinkedIn,Fully Meets,4.8,4,0,1.7.23,0,4
+Julissa Hunts,10201,69340,Production Technician II,GE,3.11.89,34,F,Single,Switzerland,6.6.21,,N/A-StillEmployed,Active,Production,Elijiah Gray,LinkedIn,Fully Meets,3,5,0,18.1.23,0,4
+Rosalie Hutter,10214,64995,Production Technician II,GE,5.7.97,26,F,Separated,Switzerland,6.5.20,,N/A-StillEmployed,Active,Production,Webster Butler,Indeed,Fully Meets,4.5,3,0,14.2.23,0,6
+Ming Huynh,10160,68182,Production Technician II,GE,22.9.81,42,F,Divorced,Switzerland,21.2.16,4.1.18,unhappy,Voluntarily Terminated,Production,Amy Dunn,Google Search,Fully Meets,3.72,3,0,2.1.17,0,18
+Walter Immediato,10289,83082,Production Manager,GE,15.11.81,42,M ,Married,Switzerland,21.2.16,24.9.17,unhappy,Voluntarily Terminated,Production,Janet King,Indeed,Needs Improvement,2.34,2,0,4.12.16,3,4
+Rose Ivey,10139,51908,Production Technician I,GE,28.1.96,27,F,Single,Switzerland,19.8.18,,N/A-StillEmployed,Active,Production,Brannon Miller,Indeed,Fully Meets,3.99,3,0,14.1.23,0,14
+Maryellen Jackson,10227,61242,Production Technician I,GE,9.11.77,46,F,Single,Switzerland,11.5.17,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,4.1,3,0,17.1.23,0,7
+Hannah Jacobi,10236,45069,Production Technician I,GE,22.3.71,52,F,Divorced,Switzerland,30.9.18,,N/A-StillEmployed,Active,Production,Kissy Sullivan,Employee Referral,Fully Meets,4.3,5,0,22.2.23,0,7
+Tayana Jeannite,10009,60724,Production Technician II,GE,11.6.91,32,F,Divorced,Switzerland,7.5.16,,N/A-StillEmployed,Active,Production,Ketsia Liebig,LinkedIn,Exceeds,4.6,4,0,25.2.23,0,11
+Sneha Jhaveri,10060,60436,Production Technician I,GE,13.4.69,54,F,Separated,Switzerland,1.6.19,,N/A-StillEmployed,Active,Production,Kelley Spirea,LinkedIn,Fully Meets,5,5,0,21.1.23,0,9
+George Johnson,10034,46837,Production Technician I,GE,19.8.64,59,M ,Married,Switzerland,11.7.16,29.4.23,more money,Voluntarily Terminated,Production,Michael Albert,CareerBuilder,Exceeds,4.7,4,0,14.2.22,0,9
+Noelle Johnson,10156,105700,Database Administrator,GE,11.7.91,32,F,Married,Switzerland,1.5.20,,N/A-StillEmployed,Active,IT/IS,Simon Roup,Indeed,Fully Meets,3.75,3,5,2.11.23,0,2
+Yen Johnston,10036,63322,Production Technician II,GE,9.8.74,49,F,Single,Switzerland,7.7.19,,N/A-StillEmployed,Active,Production,Brannon Miller,LinkedIn,Exceeds,4.3,3,0,1.11.23,0,1
+Judy Jung,10138,61154,Production Technician I,GE,17.4.91,32,F,Married,Switzerland,1.10.16,4.1.21,unhappy,Voluntarily Terminated,Production,Elijiah Gray,CareerBuilder,Fully Meets,4,4,0,2.3.20,0,4
+Donysha Kampew,10244,68999,Sales Manager,VD,11.11.94,29,F,Single,Switzerland,11.7.16,24.4.19,maternity leave - did not return,Voluntarily Terminated,Sales,Debra Houlihan,Google Search,Fully Meets,4.5,5,0,30.3.17,0,2
+Kramer Keatts,10192,50482,Production Technician I,GE,19.1.81,42,M ,Single,Switzerland,30.9.18,,N/A-StillEmployed,Active,Production,Michael Albert,Indeed,Fully Meets,3.07,4,0,23.1.23,0,10
+Bartholemew Khemmich,10231,65310,Area Sales Manager,VD,27.11.84,39,M ,Single,Switzerland,19.8.18,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Indeed,Fully Meets,4.3,5,0,22.1.23,0,13
+Janet King,10089,250000,President & CEO,BE,21.9.59,64,F,Married,Switzerland,7.2.17,,N/A-StillEmployed,Active,Executive Office,Board of Directors,Indeed,Fully Meets,4.83,3,0,17.1.23,0,10
+Kathleen Kinsella,10166,54005,Production Technician I,GE,12.8.78,45,F,Married,Switzerland,26.9.16,6.4.20,more money,Voluntarily Terminated,Production,Webster Butler,Google Search,Fully Meets,3.6,5,0,3.1.19,0,16
+Alexandra Kirill,10170,45433,Production Technician I,GE,10.8.75,48,F,Married,Switzerland,26.9.16,1.9.19,more money,Voluntarily Terminated,Production,Amy Dunn,Google Search,Fully Meets,3.49,4,0,30.1.17,0,6
+Bradley J Knapp,10208,46654,Production Technician I,GE,11.10.82,41,M ,Single,Switzerland,17.2.19,,N/A-StillEmployed,Active,Production,Ketsia Liebig,LinkedIn,Fully Meets,3.1,3,0,2.6.23,0,3
+John Kretschmer,10176,63973,Production Technician I,GE,2.2.85,38,M ,Married,Switzerland,1.10.16,,N/A-StillEmployed,Active,Production,Brannon Miller,Indeed,Fully Meets,3.38,3,0,21.1.23,0,17
+Freddy Kreuger,10165,71339,Area Sales Manager,VD,24.2.74,49,M ,Single,Switzerland,3.7.16,,N/A-StillEmployed,Active,Sales,John Smith,Diversity Job Fair,Fully Meets,3.65,5,0,17.1.23,0,20
+Jyoti Lajiri,10113,93206,Sr. Network Engineer,GE,23.4.91,32,M ,Married,Switzerland,11.10.19,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.46,5,6,1.7.23,0,7
+Hans Landa,10092,82758,Production Manager,GE,7.1.77,46,M ,Married,Switzerland,1.10.16,12.12.20,attendance,Terminated for Cause,Production,Janet King,Employee Referral,Fully Meets,4.78,4,0,15.2.19,0,9
+Lindsey Langford,10106,66074,Production Technician II,GE,25.7.84,39,F,Divorced,Switzerland,1.7.18,31.3.19,Another position,Voluntarily Terminated,Production,David Stanley,Indeed,Fully Meets,4.52,3,0,20.2.18,0,20
+Enrico Langton,10052,46120,Production Technician I,GE,12.9.91,32,M ,Married,Switzerland,7.9.17,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,5,5,0,2.4.23,0,13
+William LaRotonda,10038,64520,Accountant I,ZH,26.4.89,34,M ,Divorced,Switzerland,1.6.19,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,Website,Fully Meets,5,4,4,17.1.23,0,3
+Mohammed Latif,10249,61962,Production Technician II,GE,5.9.89,34,M ,Married,Switzerland,4.2.17,15.4.18,more money,Voluntarily Terminated,Production,Kissy Sullivan,Google Search,Fully Meets,4.9,3,0,20.2.17,0,20
+Binh Le,10232,81584,Senior BI Developer,GE,14.6.92,31,F,Single,Switzerland,10.2.21,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.1,5,7,1.8.23,0,2
+Dallas Leach,10087,63676,Production Technician I,GE,17.1.84,39,F,Single,Switzerland,26.9.16,19.8.23,return to school,Voluntarily Terminated,Production,Kissy Sullivan,CareerBuilder,Fully Meets,4.88,3,0,7.2.21,0,17
+Brandon R LeBlanc,10134,93046,Shared Services Manager,ZH,6.10.89,34,M ,Married,Switzerland,1.5.21,,N/A-StillEmployed,Active,Admin Offices,Janet King,CareerBuilder,Fully Meets,4.1,4,0,28.1.23,0,20
+Hannibal Lecter,10251,64738,Production Technician I,GE,9.2.87,36,M ,Married,Switzerland,14.5.17,,N/A-StillEmployed,Active,Production,Elijiah Gray,Google Search,Fully Meets,4.1,3,0,22.2.23,0,10
+Giovanni Leruth,10103,70468,Area Sales Manager,VD,27.12.93,30,M ,Separated,Switzerland,30.4.17,,N/A-StillEmployed,Active,Sales,John Smith,Website,Fully Meets,4.53,3,0,29.1.23,0,16
+Ketsia Liebig,10017,77915,Production Manager,GE,26.10.86,37,F,Married,Switzerland,30.9.18,,N/A-StillEmployed,Active,Production,Janet King,Website,Exceeds,4.1,3,0,21.1.23,0,11
+Marilyn Linares,10186,52624,Production Technician I,GE,26.3.86,37,F,Married,Switzerland,7.5.16,26.9.23,unhappy,Voluntarily Terminated,Production,Michael Albert,Indeed,Fully Meets,3.18,4,0,3.2.22,0,16
+Mathew Linden,10137,63450,Production Technician II,GE,19.3.84,39,M ,Married,Switzerland,7.8.18,,N/A-StillEmployed,Active,Production,Kelley Spirea,LinkedIn,Fully Meets,4,3,0,18.2.23,0,7
+Leonara Lindsay,10008,51777,IT Support,GE,10.5.93,30,F,Single,Switzerland,21.1.16,,N/A-StillEmployed,Active,IT/IS,Eric Dougall,Diversity Job Fair,Exceeds,4.64,4,5,25.1.23,0,14
+Susan Lundy,10096,67237,Production Technician II,GE,26.12.81,42,F,Widowed,Switzerland,7.8.18,15.9.21,more money,Voluntarily Terminated,Production,Michael Albert,LinkedIn,Fully Meets,4.65,4,0,6.10.20,0,15
+Lisa Lunquist,10035,73330,Production Technician II,GE,28.3.87,36,F,Single,Switzerland,19.8.18,,N/A-StillEmployed,Active,Production,Elijiah Gray,Indeed,Exceeds,4.2,4,0,2.12.23,0,19
+Allison Lydon,10057,52057,Production Technician I,GE,22.10.80,43,F,Married,Switzerland,16.2.20,,N/A-StillEmployed,Active,Production,Elijiah Gray,Website,Fully Meets,5,3,0,23.1.23,0,6
+Lindsay Lynch,10004,47434,Production Technician I,GE,14.2.78,45,F,Single,Switzerland,11.7.16,14.11.20,Another position,Voluntarily Terminated,Production,Webster Butler,Diversity Job Fair,Exceeds,5,4,0,2.2.19,0,17
+Samuel MacLennan,10191,52788,Production Technician I,GE,11.9.77,46,M ,Widowed,Switzerland,24.9.17,26.9.22,hours,Voluntarily Terminated,Production,Amy Dunn,Indeed,Fully Meets,3.08,4,0,4.1.21,0,18
+Lauren Mahoney,10219,45395,Production Technician I,GE,7.7.91,32,F,Single,Switzerland,1.6.19,,N/A-StillEmployed,Active,Production,Ketsia Liebig,LinkedIn,Fully Meets,4.6,4,0,26.2.23,0,14
+Robyn Manchester,10077,62385,Production Technician II,GE,25.8.81,42,F,Married,Switzerland,5.11.21,,N/A-StillEmployed,Active,Production,Webster Butler,LinkedIn,Fully Meets,5,3,0,21.1.23,0,4
+Karen Mancuso,10073,68407,Production Technician II,GE,12.10.91,32,F,Married,Switzerland,7.5.16,19.8.17,Another position,Voluntarily Terminated,Production,Amy Dunn,LinkedIn,Fully Meets,5,4,0,7.2.16,0,16
+Debbie Mangal,10279,61349,Production Technician I,GE,11.7.79,44,F,Married,Switzerland,11.11.18,,N/A-StillEmployed,Active,Production,Brannon Miller,LinkedIn,Fully Meets,4.1,3,0,22.1.23,0,11
+Sandra Martin,10110,105688,Software Engineer,BE,11.7.92,31,F,Single,Switzerland,11.11.18,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,Google Search,Fully Meets,4.5,5,4,14.1.23,0,14
+Shana Maurice,10053,54132,Production Technician I,GE,22.11.82,41,F,Married,Switzerland,31.5.16,,N/A-StillEmployed,Active,Production,David Stanley,Indeed,Fully Meets,5,4,0,1.10.23,0,8
+B'rigit Carthy,10076,55315,Production Technician II,GE,21.5.92,31,F,Single,Switzerland,30.3.20,,N/A-StillEmployed,Active,Production,Ketsia Liebig,LinkedIn,Fully Meets,5,5,0,2.7.23,0,16
+Sandy Mckenna,10145,62810,Production Technician I,GE,1.7.92,31,F,Married,Switzerland,1.7.18,,N/A-StillEmployed,Active,Production,Kissy Sullivan,CareerBuilder,Fully Meets,3.93,3,0,30.1.23,0,20
+Jac McKinzie,10202,63291,Area Sales Manager,VD,7.1.89,34,M ,Married,Switzerland,7.6.21,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Website,Fully Meets,3.4,4,0,29.1.23,0,7
+Elizabeth Meads,10128,62659,Production Technician I,GE,30.5.73,50,F,Single,Switzerland,4.2.17,11.11.21,Another position,Voluntarily Terminated,Production,Kelley Spirea,Diversity Job Fair,Fully Meets,4.18,4,0,2.5.20,0,17
+Jennifer Medeiros,10068,55688,Production Technician I,GE,22.9.81,42,F,Single,Switzerland,30.3.20,,N/A-StillEmployed,Active,Production,Michael Albert,CareerBuilder,Fully Meets,5,4,0,21.1.23,0,10
+Brannon Miller,10116,83667,Production Manager,GE,8.10.86,37,M ,Single,Switzerland,16.8.17,,N/A-StillEmployed,Active,Production,Janet King,Indeed,Fully Meets,4.37,3,0,14.1.23,0,2
+Ned Miller,10298,55800,Production Technician II,GE,29.6.90,33,M ,Single,Switzerland,15.8.16,9.4.19,unhappy,Voluntarily Terminated,Production,Brannon Miller,LinkedIn,PIP,3,2,0,14.1.17,6,6
+Erasumus Monkfish,10213,58207,Production Technician II,GE,17.8.97,26,M ,Married,Switzerland,11.7.16,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,3.7,3,0,1.8.23,0,14
+Peter Monroe,10288,157000,IT Manager - Infra,GE,10.5.91,32,M ,Married,Switzerland,15.2.17,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,Diversity Job Fair,Needs Improvement,2.39,3,6,22.2.23,4,13
+Luisa Monterro,10025,72460,Production Technician II,GE,24.4.75,48,F,Single,Switzerland,13.5.18,,N/A-StillEmployed,Active,Production,Kissy Sullivan,Indeed,Exceeds,4.7,3,0,14.1.23,0,1
+Patrick Moran,10223,72106,Production Technician II,GE,12.3.81,42,M ,Single,Switzerland,1.9.17,,N/A-StillEmployed,Active,Production,Kelley Spirea,Diversity Job Fair,Fully Meets,4.1,4,0,31.1.23,0,12
+Tanya Morway,10151,52599,Network Engineer,GE,4.4.84,39,F,Married,Switzerland,16.2.20,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,CareerBuilder,Fully Meets,3.81,3,6,2.11.23,0,6
+Dawn Motlagh,10254,63430,Production Technician I,GE,7.7.89,34,F,Divorced,Switzerland,4.1.18,,N/A-StillEmployed,Active,Production,Elijiah Gray,LinkedIn,Fully Meets,4.4,4,0,17.1.23,0,18
+Maliki Moumanil,10120,74417,Production Technician II,GE,12.1.79,44,M ,Separated,Switzerland,13.5.18,,N/A-StillEmployed,Active,Production,Michael Albert,LinkedIn,Fully Meets,4.29,5,0,28.1.23,0,11
+Michael Myers,10216,57575,Production Technician I,GE,18.4.85,38,M ,Single,Switzerland,7.8.18,,N/A-StillEmployed,Active,Production,Kissy Sullivan,LinkedIn,Fully Meets,4.1,4,0,22.1.23,0,13
+Kurt Navathe,10079,87921,Senior BI Developer,GE,25.4.75,48,M ,Single,Switzerland,2.10.22,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,5,3,6,25.2.23,0,17
+Colombui Ndzi,10215,50470,Production Technician I,GE,5.2.94,29,M ,Single,Switzerland,26.9.16,4.4.19,return to school,Voluntarily Terminated,Production,Webster Butler,Diversity Job Fair,Fully Meets,4.3,3,0,3.2.17,0,19
+Horia Ndzi,10185,46664,Production Technician I,GE,28.3.88,35,M ,Married,Switzerland,4.1.18,25.5.21,more money,Voluntarily Terminated,Production,Amy Dunn,Employee Referral,Fully Meets,3.18,3,0,3.6.20,0,10
+Richard Newman,10063,48495,Production Technician I,GE,4.8.82,41,M ,Married,Switzerland,5.12.19,,N/A-StillEmployed,Active,Production,Ketsia Liebig,LinkedIn,Fully Meets,5,5,0,18.2.23,0,11
+Shari Ngodup,10037,52984,Production Technician I,GE,6.3.72,51,F,Separated,Switzerland,4.1.18,,N/A-StillEmployed,Active,Production,Brannon Miller,Diversity Job Fair,Exceeds,4,3,0,13.2.23,0,12
+Dheepa Nguyen,10042,63695,Area Sales Manager,VD,31.3.94,29,F,Single,Switzerland,7.8.18,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Indeed,Fully Meets,5,5,0,25.1.23,0,2
+Lei-Ming Nguyen,10206,62061,Production Technician I,GE,7.7.89,34,F,Single,Switzerland,7.8.18,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,3.6,5,0,1.2.23,0,4
+Kristie Nowlan,10104,66738,Production Technician II,GE,23.11.90,33,F,Single,Switzerland,11.10.19,,N/A-StillEmployed,Active,Production,Elijiah Gray,Indeed,Fully Meets,4.53,5,0,16.1.23,0,5
+Lynn O'hare,10303,52674,Production Technician I,GE,30.9.85,38,F,Single,Switzerland,31.3.19,5.1.23,performance,Terminated for Cause,Production,Kissy Sullivan,LinkedIn,PIP,2.33,2,0,3.9.22,6,3
+Brooke Oliver,10078,71966,Production Technician II,GE,2.11.57,66,F,Married,Switzerland,14.5.17,19.8.18,unhappy,Voluntarily Terminated,Production,Webster Butler,LinkedIn,Fully Meets,5,3,0,7.2.17,0,17
+Jasmine Onque,10121,63051,Area Sales Manager,VD,5.11.95,28,F,Single,Switzerland,30.9.18,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Indeed,Fully Meets,4.28,3,0,25.1.23,0,1
+Adeel Osturnka,10021,47414,Production Technician I,GE,12.11.81,42,M ,Married,Switzerland,30.9.18,,N/A-StillEmployed,Active,Production,Kelley Spirea,LinkedIn,Exceeds,5,3,0,2.7.23,0,13
+Clinton Owad,10281,53060,Production Technician I,GE,24.11.84,39,M ,Single,Switzerland,17.2.19,,N/A-StillEmployed,Active,Production,Michael Albert,LinkedIn,Needs Improvement,4.25,3,0,2.4.23,4,6
+Travis Ozark,10041,68829,Area Sales Manager,VD,19.5.87,36,M ,Single,Switzerland,1.5.20,,N/A-StillEmployed,Active,Sales,John Smith,Website,Fully Meets,5,5,0,14.1.23,0,18
+Nina Panjwani,10148,63515,Production Technician I,GE,5.1.84,39,F,Married,Switzerland,2.7.16,1.12.19,Another position,Voluntarily Terminated,Production,Elijiah Gray,Google Search,Fully Meets,3.89,4,0,3.4.17,0,7
+Lucas Patronick,10005,108987,Software Engineer,BE,20.2.84,39,M ,Single,Switzerland,11.7.16,9.7.20,Another position,Voluntarily Terminated,Software Engineering,Alex Sweetwater,Diversity Job Fair,Exceeds,5,5,3,16.8.19,0,13
+Randall Pearson,10259,93093,Data Analyst,GE,9.5.89,34,M ,Married,Switzerland,12.1.19,5.1.21,performance,Voluntarily Terminated,IT/IS,Simon Roup,Employee Referral,Fully Meets,4.7,4,5,16.1.20,0,19
+Martin Smith,10286,53564,Production Technician I,GE,17.3.93,30,M ,Single,Switzerland,1.10.16,28.12.22,career change,Voluntarily Terminated,Production,Webster Butler,Google Search,Needs Improvement,3.54,5,0,4.6.21,4,15
+Ermine Pelletier,10297,60270,Production Technician II,GE,18.7.94,29,F,Married,Switzerland,7.5.16,15.9.20,unhappy,Voluntarily Terminated,Production,Amy Dunn,CareerBuilder,Needs Improvement,2.4,5,0,2.6.19,5,2
+Shakira Perry,10171,45998,Production Technician I,GE,20.7.91,32,F,Single,Switzerland,16.5.16,25.10.20,medical issues,Voluntarily Terminated,Production,Amy Dunn,LinkedIn,Fully Meets,3.45,4,0,13.5.18,0,5
+Lauren Peters,10032,57954,Production Technician II,GE,17.8.91,32,F,Married,Switzerland,16.5.16,2.4.18,more money,Voluntarily Terminated,Production,Ketsia Liebig,Indeed,Exceeds,4.2,5,0,1.10.17,0,12
+Ebonee Peterson,10130,74669,Production Manager,GE,5.9.82,41,F,Married,Switzerland,25.10.15,18.5.21,Another position,Voluntarily Terminated,Production,Janet King,Indeed,Fully Meets,4.16,5,0,3.5.19,0,6
+Shana Petingill,10217,74226,Production Technician II,GE,3.10.84,39,F,Married,Switzerland,4.2.17,,N/A-StillEmployed,Active,Production,Brannon Miller,LinkedIn,Fully Meets,4.3,3,0,14.1.23,0,14
+Thelma Petrowsky,10016,93554,Data Analyst,GE,16.9.89,34,F,Married,Switzerland,11.10.19,,N/A-StillEmployed,Active,IT/IS,Simon Roup,Employee Referral,Exceeds,4.6,5,7,1.4.23,0,16
+Hong Pham,10050,64724,Production Technician I,GE,3.6.93,30,M ,Married,Switzerland,7.5.16,30.11.17,more money,Voluntarily Terminated,Production,Brannon Miller,Google Search,Fully Meets,5,3,0,20.2.16,0,13
+Brad Pitt,10164,47001,Production Technician I,GE,23.11.86,37,M ,Single,Switzerland,11.5.12,,N/A-StillEmployed,Active,Production,David Stanley,Google Search,Fully Meets,3.66,3,0,25.2.23,0,15
+Xana Potts,10124,61844,Area Sales Manager,VD,29.8.93,30,F,Married,Switzerland,1.9.17,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Website,Fully Meets,4.2,5,0,2.1.23,0,9
+Morissa Power,10187,46799,Production Technician I,GE,15.10.89,34,F,Divorced,Switzerland,16.5.16,6.4.23,Another position,Voluntarily Terminated,Production,Kissy Sullivan,Google Search,Fully Meets,3.17,4,0,4.2.22,0,14
+Louis Punjabhi,10225,59472,Production Technician I,GE,19.6.66,57,M ,Single,Switzerland,1.6.19,,N/A-StillEmployed,Active,Production,Kelley Spirea,Employee Referral,Fully Meets,4.8,3,0,1.7.23,0,14
+Janine Purinton,10262,46430,Production Technician I,GE,22.9.75,48,F,Divorced,Switzerland,24.9.17,18.6.18,unhappy,Voluntarily Terminated,Production,Kissy Sullivan,Indeed,Fully Meets,4.5,5,0,4.2.17,0,16
+Sean Quinn,10131,83363,Software Engineer,BE,11.6.89,34,M ,Married,Switzerland,21.2.16,15.8.20,career change,Voluntarily Terminated,Software Engineering,Janet King,Diversity Job Fair,Fully Meets,4.15,4,0,19.4.18,0,4
+Maggie Rachael,10239,95920,BI Developer,GE,5.12.85,38,F,Married,Switzerland,10.2.21,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.4,4,6,2.6.23,0,10
+Quinn Rarrick,10152,61729,Production Technician I,GE,31.12.89,34,M ,Divorced,Switzerland,26.9.16,4.7.23,more money,Voluntarily Terminated,Production,Michael Albert,Indeed,Fully Meets,3.8,5,0,2.4.22,0,19
+Kylo Ren,10140,61809,Area Sales Manager,VD,10.12.59,64,M ,Married,Switzerland,5.12.19,,N/A-StillEmployed,Active,Sales,John Smith,CareerBuilder,Fully Meets,3.98,3,0,28.1.23,0,4
+Thomas Rhoads,10058,45115,Production Technician I,GE,22.7.55,68,M ,Divorced,Switzerland,16.5.16,15.1.21,retiring,Voluntarily Terminated,Production,Elijiah Gray,LinkedIn,Fully Meets,5,4,0,30.3.19,0,11
+Haley Rivera,10011,46738,Production Technician I,GE,1.12.78,45,F,Married,Switzerland,28.11.16,,N/A-StillEmployed,Active,Production,Webster Butler,Google Search,Exceeds,4.36,5,0,2.11.23,0,16
+May Roberson,10230,64971,Production Technician II,GE,9.5.86,37,F,Divorced,Switzerland,26.9.16,22.10.16,return to school,Voluntarily Terminated,Production,David Stanley,Google Search,Fully Meets,4.5,4,0,22.10.15,0,10
+Peter Robertson,10224,55578,Production Technician II,GE,7.3.77,46,M ,Married,Switzerland,7.5.16,2.8.17,Another position,Voluntarily Terminated,Production,Kissy Sullivan,Indeed,Fully Meets,4.2,5,0,1.6.16,0,13
+Alain Robinson,10047,50428,Production Technician I,GE,1.7.79,44,M ,Married,Switzerland,1.10.16,26.1.21,attendance,Voluntarily Terminated,Production,Amy Dunn,Indeed,Fully Meets,5,3,0,1.10.19,0,11
+Cherly Robinson,10285,61422,Production Technician I,GE,1.7.90,33,F,Married,Switzerland,1.10.16,17.5.21,attendance,Terminated for Cause,Production,Ketsia Liebig,Indeed,Needs Improvement,3.6,3,0,4.5.20,4,16
+Elias Robinson,10020,63353,Production Technician I,GE,28.1.90,33,M ,Widowed,Switzerland,7.8.18,,N/A-StillEmployed,Active,Production,Brannon Miller,Employee Referral,Exceeds,3.6,5,0,2.11.23,0,4
+Lori Roby,10162,89883,Data Analyst,GE,10.11.86,37,F,Married,Switzerland,16.2.20,,N/A-StillEmployed,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,3.69,5,6,14.2.23,0,15
+Bianca Roehrich,10149,120000,Principal Data Architect,GE,27.5.78,45,F,Single,Switzerland,1.5.20,11.10.23,Another position,Voluntarily Terminated,IT/IS,Simon Roup,LinkedIn,Fully Meets,3.88,3,7,13.2.22,0,12
+Katie Roper,10086,150290,Data Architect,GE,21.11.77,46,F,Single,Switzerland,1.7.22,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.94,3,5,2.6.23,0,17
+Ashley Rose,10054,60627,Production Technician I,GE,12.5.79,44,F,Separated,Switzerland,1.6.19,,N/A-StillEmployed,Active,Production,David Stanley,Website,Fully Meets,5,4,0,31.1.23,0,8
+Bruno Rossetti,10065,53180,Production Technician I,GE,18.3.92,31,M ,Single,Switzerland,4.4.16,13.8.23,Another position,Voluntarily Terminated,Production,Kissy Sullivan,Google Search,Fully Meets,5,5,0,7.2.22,0,4
+Simon Roup,10198,140920,IT Manager - DB,GE,4.5.78,45,M ,Single,Switzerland,20.1.18,,N/A-StillEmployed,Active,IT/IS,Jennifer Zamora,Indeed,Fully Meets,3.6,5,7,18.2.23,0,13
+Ricardo Ruiz,10222,148999,IT Manager - DB,GE,1.4.69,54,M ,Divorced,Switzerland,1.9.17,11.4.20,hours,Voluntarily Terminated,IT/IS,Jennifer Zamora,Diversity Job Fair,Fully Meets,4.3,4,6,1.4.19,0,8
+Adell Saada,10126,86214,Software Engineer,BE,24.7.91,32,F,Married,Switzerland,11.5.17,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,Indeed,Fully Meets,4.2,3,6,13.2.23,0,2
+Melinda Saar-Beckles,10295,47750,Production Technician I,GE,6.6.73,50,F,Single,Switzerland,7.4.21,,N/A-StillEmployed,Active,Production,Kelley Spirea,Diversity Job Fair,Needs Improvement,2.6,4,0,18.2.23,5,4
+Nore Sadki,10260,46428,Production Technician I,GE,21.12.79,44,M ,Single,Switzerland,1.5.14,30.7.23,relocation out of area,Voluntarily Terminated,Production,Michael Albert,Google Search,Fully Meets,4.6,5,0,2.5.22,0,7
+Adil Sahoo,10233,57975,Production Technician II,GE,26.4.91,32,M ,Married,Switzerland,30.8.15,,N/A-StillEmployed,Active,Production,Kelley Spirea,CareerBuilder,Fully Meets,4.1,3,0,1.10.23,0,13
+Jason Salter,10229,88527,Data Analyst ,GE,17.12.92,31,M ,Divorced,Switzerland,1.5.20,31.10.20,hours,Voluntarily Terminated,IT/IS,Simon Roup,LinkedIn,Fully Meets,4.2,3,5,20.4.19,0,2
+Kamrin Sander,10169,56147,Production Technician I,GE,7.10.93,30,F,Married,Switzerland,29.9.19,,N/A-StillEmployed,Active,Production,Elijiah Gray,LinkedIn,Fully Meets,3.51,3,0,18.2.23,0,2
+Nori Sewkumar,10071,50923,Production Technician I,GE,3.10.80,43,F,Single,Switzerland,30.9.18,,N/A-StillEmployed,Active,Production,Webster Butler,Google Search,Fully Meets,5,5,0,2.6.23,0,14
+Anita Shepard,10179,50750,Network Engineer,GE,14.4.86,37,F,Married,Switzerland,30.9.19,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.31,3,6,1.7.23,0,7
+Seffi Shields,10091,52087,Production Technician I,GE,24.8.90,33,F,Married,Switzerland,19.8.18,,N/A-StillEmployed,Active,Production,Amy Dunn,LinkedIn,Fully Meets,4.81,4,0,15.2.23,0,15
+Kramer Simard,10178,87826,Data Analyst,GE,2.8.75,48,M ,Married,Switzerland,1.5.20,,N/A-StillEmployed,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,3.32,3,7,14.1.23,0,16
+Nan Singh,10039,51920,Administrative Assistant,ZH,19.5.93,30,F,Single,Switzerland,5.1.20,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,Website,Fully Meets,5,3,5,15.1.23,0,2
+Constance Sloan,10095,63878,Production Technician II,GE,25.11.92,31,F,Single,Switzerland,26.10.14,4.8.20,maternity leave - did not return,Voluntarily Terminated,Production,Michael Albert,CareerBuilder,Fully Meets,4.68,4,0,4.2.19,0,20
+Joe Smith,10027,60656,Production Technician II,GE,30.10.68,55,M ,Single,Switzerland,29.9.19,,N/A-StillEmployed,Active,Production,Elijiah Gray,Indeed,Exceeds,4.3,3,0,28.1.23,0,4
+John Smith,10291,72992,Sales Manager,VD,16.8.89,34,M ,Divorced,Switzerland,18.5.19,,N/A-StillEmployed,Active,Sales,Debra Houlihan,Diversity Job Fair,Needs Improvement,2.4,4,0,16.1.23,2,16
+Leigh Ann Smith,10153,55000,Administrative Assistant,ZH,14.6.92,31,F,Married,Switzerland,26.9.16,25.9.18,career change,Voluntarily Terminated,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,3.8,4,4,15.8.17,0,17
+Sade Smith,10157,58939,Production Technician I,GE,2.2.70,53,F,Single,Switzerland,11.11.18,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Employee Referral,Fully Meets,3.73,3,0,24.1.23,0,16
+Julia Soto,10119,66593,IT Support,GE,3.12.78,45,F,Married,Switzerland,6.10.16,,N/A-StillEmployed,Active,IT/IS,Eric Dougall,LinkedIn,Fully Meets,4.3,3,5,2.8.23,0,19
+Keyser Soze,10180,87565,Sr. Network Engineer,GE,2.9.88,35,M ,Married,Switzerland,30.6.21,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.27,4,5,14.1.23,0,13
+Taylor Sparks,10302,64021,Production Technician I,GE,20.7.73,50,F,Married,Switzerland,20.2.17,,N/A-StillEmployed,Active,Production,Brannon Miller,Indeed,PIP,2.4,2,1,25.2.23,6,20
+Kelley Spirea,10090,65714,Production Manager,GE,30.9.80,43,F,Married,Switzerland,10.2.17,,N/A-StillEmployed,Active,Production,Janet King,LinkedIn,Fully Meets,4.83,5,0,14.2.23,0,15
+Kristen Squatrito,10030,62425,Production Technician I,GE,26.3.78,45,F,Divorced,Switzerland,13.5.18,29.6.20,unhappy,Voluntarily Terminated,Production,David Stanley,LinkedIn,Exceeds,4.1,4,0,3.2.19,0,16
+Barbara M Stanford,10278,47961,Production Technician I,GE,25.8.87,36,F,Divorced,Switzerland,1.10.16,,N/A-StillEmployed,Active,Production,Kissy Sullivan,Google Search,Fully Meets,4.1,4,0,2.7.23,0,9
+Norman Stansfield,10307,58273,Area Sales Manager,VD,5.9.79,44,M ,Married,Switzerland,5.12.19,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Website,PIP,1.81,2,0,17.1.23,3,5
+Tyrone Steans,10147,63003,Accountant I,ZH,9.1.91,32,M ,Single,Switzerland,29.9.19,,N/A-StillEmployed,Active,Admin Offices,Brandon R. LeBlanc,Indeed,Fully Meets,3.9,5,5,18.1.23,0,9
+Rick Stoica,10266,61355,Production Technician I,GE,14.3.90,33,M ,Married,Switzerland,17.2.19,,N/A-StillEmployed,Active,Production,Kelley Spirea,LinkedIn,Fully Meets,4.7,3,0,1.11.23,0,4
+Caitrin Strong,10241,60120,Area Sales Manager,VD,5.12.94,29,F,Married,Switzerland,27.9.15,,N/A-StillEmployed,Active,Sales,John Smith,Indeed,Fully Meets,4.1,4,0,31.1.23,0,18
+Kissy Sullivan,10158,63682,Production Manager,GE,28.3.83,40,F,Married,Switzerland,1.8.14,,N/A-StillEmployed,Active,Production,Janet King,Indeed,Fully Meets,3.73,4,0,24.1.23,0,12
+Timothy Sullivan,10117,63025,Production Technician I,GE,10.7.87,36,M ,Married,Switzerland,1.5.20,,N/A-StillEmployed,Active,Production,Michael Albert,Google Search,Fully Meets,4.36,5,0,24.1.23,0,10
+Barbara Sutwell,10209,59238,Production Technician I,GE,15.8.73,50,F,Single,Switzerland,14.5.17,,N/A-StillEmployed,Active,Production,Elijiah Gray,Indeed,Fully Meets,3.4,5,0,31.1.23,0,13
+Andrew Szabo,10024,92989,Software Engineer,BE,5.6.88,35,M ,Single,Switzerland,7.7.19,,N/A-StillEmployed,Active,Software Engineering,Alex Sweetwater,LinkedIn,Exceeds,4.5,5,5,18.2.23,0,1
+Biff Tannen,10173,90100,BI Developer,GE,24.10.92,31,M ,Married,Switzerland,20.4.22,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.4,3,6,1.2.23,0,14
+Desiree Tavares,10221,60754,Production Technician I,GE,4.3.80,43,F,Married,Switzerland,27.4.14,4.1.18,Another position,Voluntarily Terminated,Production,Webster Butler,Diversity Job Fair,Fully Meets,4.5,5,0,15.2.16,0,11
+Lenora Tejeda,10146,72202,Production Technician II,GE,24.5.58,65,F,Married,Switzerland,16.5.16,7.8.22,Another position,Voluntarily Terminated,Production,Elijiah Gray,Google Search,Fully Meets,3.93,3,0,18.4.21,0,3
+Sharlene Terry,10161,58370,Area Sales Manager,VD,5.7.70,53,F,Single,Switzerland,29.9.19,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Indeed,Fully Meets,3.69,3,0,28.1.23,0,18
+Sophia Theamstern,10141,48413,Production Technician I,GE,5.9.70,53,F,Single,Switzerland,7.5.16,9.5.21,return to school,Voluntarily Terminated,Production,Amy Dunn,Indeed,Fully Meets,3.98,4,0,3.2.20,0,1
+Kenneth Thibaud,10268,67176,Production Technician II,GE,16.9.80,43,M ,Widowed,Switzerland,25.6.12,30.8.15,military,Voluntarily Terminated,Production,Webster Butler,Other,Fully Meets,4.1,4,0,14.7.14,0,15
+Jeanette Tippett,10123,56339,Production Technician I,GE,6.5.72,51,F,Divorced,Switzerland,18.2.18,,N/A-StillEmployed,Active,Production,Brannon Miller,Indeed,Fully Meets,4.21,5,0,14.1.23,0,4
+Jack Torrence,10013,64397,Area Sales Manager,VD,15.1.73,50,M ,Separated,Switzerland,1.9.11,,N/A-StillEmployed,Active,Sales,Lynn Daneault,Indeed,Exceeds,4.1,3,0,1.4.23,0,6
+Mei Trang,10287,63025,Production Technician I,GE,16.5.88,35,F,Single,Switzerland,17.2.19,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Needs Improvement,2.44,5,0,2.11.23,4,18
+Neville Tredinnick,10044,75281,Network Engineer,GE,5.5.93,30,M ,Married,Switzerland,1.5.20,2.12.21,medical issues,Voluntarily Terminated,IT/IS,Peter Monroe,CareerBuilder,Fully Meets,5,3,5,15.4.19,0,11
+Edward TRUE,10102,100416,Software Engineer,BE,14.6.88,35,M ,Single,Switzerland,18.2.18,15.4.23,medical issues,Voluntarily Terminated,Software Engineering,Alex Sweetwater,Diversity Job Fair,Fully Meets,4.6,3,4,2.12.21,0,9
+Cybil Trzeciak,10270,74813,Production Technician II,GE,15.3.90,33,F,Single,Switzerland,1.10.16,7.2.19,unhappy,Voluntarily Terminated,Production,Amy Dunn,LinkedIn,Fully Meets,4.4,3,0,1.5.18,0,5
+Jumil Turpin,10045,76029,Network Engineer,GE,31.3.74,49,M ,Married,Switzerland,30.3.20,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,5,4,7,14.1.23,0,8
+Jackie Valentin,10205,57859,Area Sales Manager,VD,23.5.96,27,F,Married,Switzerland,7.5.16,,N/A-StillEmployed,Active,Sales,John Smith,Indeed,Fully Meets,2.81,3,0,17.1.23,0,16
+Abdellah Veera,10014,58523,Production Technician I,GE,31.1.92,31,M ,Divorced,Switzerland,13.8.17,2.5.21,maternity leave - did not return,Voluntarily Terminated,Production,Kissy Sullivan,LinkedIn,Exceeds,4.5,5,0,2.1.20,0,15
+Vincent Vega,10144,88976,Production Manager,GE,10.10.73,50,M ,Divorced,Switzerland,8.1.16,,N/A-StillEmployed,Active,Production,Janet King,Employee Referral,Fully Meets,3.93,3,0,27.2.23,0,19
+Noah Villanueva,10253,55875,Area Sales Manager,VD,7.11.94,29,M ,Single,Switzerland,3.5.17,,N/A-StillEmployed,Active,Sales,John Smith,Website,Fully Meets,4.5,4,0,18.1.23,0,11
+Lord Voldemort,10118,113999,Database Administrator,GE,8.7.91,32,M ,Married,Switzerland,16.2.20,22.2.22,"no-call, no-show",Terminated for Cause,IT/IS,Simon Roup,Employee Referral,Fully Meets,4.33,3,7,15.2.21,0,9
+Colleen Volk,10022,49773,Production Technician I,GE,6.3.91,32,F,Married,Switzerland,26.9.16,2.8.21,gross misconduct,Terminated for Cause,Production,Kelley Spirea,Google Search,Exceeds,4.3,5,0,2.1.19,0,18
+Anna Von Massenbach,10183,62068,Production Technician I,GE,4.6.90,33,F,Single,Switzerland,7.5.20,,N/A-StillEmployed,Active,Production,Michael Albert,LinkedIn,Fully Meets,3.21,3,0,29.1.23,0,7
+Roger Walker,10190,66541,Production Technician II,GE,2.10.81,42,M ,Single,Switzerland,18.8.19,,N/A-StillEmployed,Active,Production,Ketsia Liebig,Employee Referral,Fully Meets,3.11,5,0,2.12.23,0,4
+Courtney E Wallace,10274,80512,Production Manager,GE,14.11.60,63,F,Married,Switzerland,26.9.16,1.2.17,Another position,Voluntarily Terminated,Production,Janet King,Diversity Job Fair,Fully Meets,4.5,3,0,1.2.16,0,5
+Theresa Wallace,10293,50274,Production Technician I,GE,8.2.85,38,F,Single,Switzerland,13.8.17,9.1.20,career change,Voluntarily Terminated,Production,Elijiah Gray,CareerBuilder,Needs Improvement,2.5,3,0,9.5.18,6,13
+Charlie Wang,10172,84903,Senior BI Developer,GE,7.8.86,37,M ,Single,Switzerland,15.2.22,,N/A-StillEmployed,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.42,4,7,1.4.23,0,17
+Sarah Warfield,10127,107226,Sr. Network Engineer,GE,5.2.83,40,F,Widowed,Switzerland,30.3.20,,N/A-StillEmployed,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.2,4,8,2.5.23,0,7
+Scott Whittier,10072,58371,Production Technician I,GE,24.5.92,31,M ,Single,Switzerland,1.10.16,15.5.19,hours,Voluntarily Terminated,Production,Webster Butler,LinkedIn,Fully Meets,5,5,0,15.5.18,0,11
+Barry Wilber,10048,55140,Production Technician I,GE,9.9.70,53,M ,Married,Switzerland,16.5.16,9.7.20,unhappy,Voluntarily Terminated,Production,Amy Dunn,Website,Fully Meets,5,3,0,15.2.19,0,7
+Annie Wilkes,10204,58062,Production Technician I,GE,30.7.88,35,F,Divorced,Switzerland,1.10.16,14.5.17,Another position,Voluntarily Terminated,Production,Ketsia Liebig,Google Search,Fully Meets,3.6,5,0,2.6.15,0,9
+Jacquelyn Williams,10264,59728,Production Technician I,GE,10.2.74,49,F,Single,Switzerland,1.9.17,27.6.20,relocation out of area,Voluntarily Terminated,Production,Ketsia Liebig,Diversity Job Fair,Fully Meets,4.3,4,0,6.2.18,0,16
+Jordan Winthrop,10033,70507,Production Technician II,GE,11.7.54,69,M ,Single,Switzerland,1.7.18,21.2.21,retiring,Voluntarily Terminated,Production,Brannon Miller,LinkedIn,Exceeds,5,3,0,19.1.20,0,7
+Hang T Wolk,10174,60446,Production Technician II,GE,20.4.90,33,F,Single,Switzerland,29.9.19,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,3.4,4,0,21.2.23,0,14
+Jason Woodson,10135,65893,Production Technician II,GE,5.11.90,33,M ,Single,Switzerland,7.7.19,,N/A-StillEmployed,Active,Production,Kissy Sullivan,LinkedIn,Fully Meets,4.07,4,0,28.2.23,0,13
+Catherine Ybarra,10301,48513,Production Technician I,GE,5.4.87,36,F,Single,Switzerland,9.2.13,29.9.20,Another position,Voluntarily Terminated,Production,Brannon Miller,Google Search,PIP,3.2,2,0,9.2.19,5,4
+Jennifer Zamora,10010,220450,CIO,GE,30.8.84,39,F,Single,Switzerland,4.10.15,,N/A-StillEmployed,Active,IT/IS,Janet King,Employee Referral,Exceeds,4.6,5,6,21.2.23,0,16
+Julia Zhou,10043,89292,Data Analyst,GE,24.2.84,39,F,Single,Switzerland,30.3.20,,N/A-StillEmployed,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,5,3,5,2.1.23,0,11
+Colleen Zima,10271,45046,Production Technician I,GE,17.8.83,40,F,Widowed,Switzerland,29.9.19,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,4.5,5,0,30.1.23,0,2
+Emanuel Cruz,10312,45000,Production Technician I,GE,15.10.05,18,M ,Single,Switzerland,20.10.23,,N/A-StillEmployed,Active,Production,David Stanley,LinkedIn,Fully Meets,4.5,5,0,30.12.23,0,2
