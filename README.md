@@ -25,7 +25,7 @@ This analysis seeks to identify the root causes of the increasing employee turno
 ### 1. Data Import
 
 - Downloaded `"HRDataset_v14.csv"` from Kaggle ([source](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)).
-- Transformed the data and saved the file locally and renamed it to `"Employees.xlsm"`.
+- Transformed the data and saved the file locally and renamed it to `"Employees.csv"`.
 
 ### 2. Data Cleaning and Transformation
 
