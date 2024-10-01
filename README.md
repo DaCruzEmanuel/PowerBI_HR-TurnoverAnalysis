@@ -49,6 +49,8 @@ To align the dataset with the Swiss context, several modifications were made:
 - Marked the calendar table as Date table.
 - Established two innactive relashionships between the calendar table and the Employees table.
 
+<img src="https://i.imgur.com/gRpIobl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 ### 4. DAX Calculations
 
 - Created a measures table to stores all measures.
