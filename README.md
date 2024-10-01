@@ -99,6 +99,7 @@ When analyzing recruitment sources for active employees in 2023, Indeed and Link
   
 Although this analysis does not focus primarily on salary, it's worth mentioning that the average salary in 2023 was 70.57 KCHF per year. This provides a general context for the company's compensation levels.
 
+**______________________________**
 ### HR Turnover Analysis <br />
 
 <img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
