@@ -10,7 +10,7 @@ This project leverages Power BI to conduct an in-depth analysis of HR turnover t
 **Dataset**
 - The project is based on a dataset imported from Kaggle [Human Resources Data Set](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
 - Data from .xlsm file with 312 rows from year 2011 to 2023
-
+---
 ## Problem statement
 
 ### Problem/Question to be Solved: 
@@ -19,7 +19,7 @@ How can the company effectively reduce its employee turnover rate and ensure tha
 
 This analysis seeks to identify the root causes of the increasing employee turnover and provide actionable recommendations to mitigate the risk of further staff losses. The goal is to develop a sustainable strategy that improves employee retention and ensures the company's workforce remains adequately staffed to meet operational demands.
 
-
+---
 ## Main Steps in Report Creation
 
 ### 1. Data Import
@@ -68,6 +68,7 @@ The analysis is based on the following two reports:
 - HR Overview
 - Turnover Analysis
 
+---
 ## Report Visualization and Analysis
 
 This analysis focuses on the HR data for the year 2023. For a more comprehensive review, including data from previous years, please refer to the .pbix file available in this project repository.
