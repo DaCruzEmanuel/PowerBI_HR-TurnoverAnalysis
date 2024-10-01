@@ -4,12 +4,12 @@
 
 This project leverages Power BI to conduct an in-depth analysis of HR turnover trends over multiple years. The analysis offers a comprehensive overview of employee numbers, identifying key patterns and conducting detailed comparisons across gender, age groups, and departments. By providing actionable insights into the underlying causes of turnover, this project supports data-driven decision-making aimed at optimizing hiring practices and minimizing employee attrition.
 
-- **Tool used:**
-    - *Power BI*
+**Tool used:**
+- Power BI
 
-- **Dataset:**
-    - *The project is based on a dataset imported from Kaggle [Human Resources Data Set](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).*
-    - *Data from .xlsm file with 312 rows from year 2011 to 2023*
+**Dataset**
+- The project is based on a dataset imported from Kaggle [Human Resources Data Set](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
+- Data from .xlsm file with 312 rows from year 2011 to 2023
 
 ## Problem statement
 
