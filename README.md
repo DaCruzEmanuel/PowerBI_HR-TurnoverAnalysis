@@ -145,3 +145,9 @@ Analysis of the hires versus leavers trend from previous years shows a troubling
 **2. Recruitment and Replacement Efforts:**
 - *Streamline Recruitment Processes: Invest in efficient recruitment technologies and strategies to fill vacant positions more quickly.*
 - *Strengthen Employer Branding: Enhance the company’s reputation as an employer of choice to attract top talent, particularly in departments with high turnover.*
+
+## Interactive Dashboard
+
+For a more comprehensive review and to interact with the full dashboard, please click the link below:
+
+[HR Turnover Analysis Dashboards](https://app.powerbi.com/view?r=eyJrIjoiOGZiYmZhZjAtNzE4ZC00MGEyLWI1ZDUtYTVhYTFkMDMwOWQ2IiwidCI6IjIwNWMxNjI0LTg0YWEtNGU3Yy05NjhmLTlkYzM2NDAzNmFjZSJ9)
