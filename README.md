@@ -74,7 +74,7 @@ The analysis is based on the following two reports:
 This analysis focuses on the HR data for the year 2023. For a more comprehensive review, including data from previous years, please refer to the .pbix file available in this project repository.
 
 ### Overall, Company Insights
-<img src="https://i.imgur.com/LJmFJqG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/I7JMwYk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 The insights analysis for this project begins with a general overview of the HR department:
@@ -102,7 +102,7 @@ Although this analysis does not focus primarily on salary, it's worth mentioning
 **______________________________**
 ### HR Turnover Analysis <br />
 
-<img src="https://i.imgur.com/jhZc16D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4N2vNfh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 This report dives deeper into employees turnover analysis, providing a more granular view with focus on the employees turnover for 2023, a critical metric for understanding the company's workforce stability: 
